@@ -1,0 +1,6 @@
+C:\Users\Dylan Danowski\source\repos\Parse\Parse\bin\Debug\Parse.exe.config
+C:\Users\Dylan Danowski\source\repos\Parse\Parse\bin\Debug\Parse.exe
+C:\Users\Dylan Danowski\source\repos\Parse\Parse\bin\Debug\Parse.pdb
+C:\Users\Dylan Danowski\source\repos\Parse\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Parse\Parse\obj\Debug\Parse.exe
+C:\Users\Dylan Danowski\source\repos\Parse\Parse\obj\Debug\Parse.pdb

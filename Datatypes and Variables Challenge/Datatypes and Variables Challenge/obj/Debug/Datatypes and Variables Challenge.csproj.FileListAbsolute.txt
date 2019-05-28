@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\bin\Debug\Datatypes and Variables Challenge.exe.config
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\bin\Debug\Datatypes and Variables Challenge.exe
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\bin\Debug\Datatypes and Variables Challenge.pdb
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\obj\Debug\Datatypes and Variables Challenge.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\obj\Debug\Datatypes and Variables Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\obj\Debug\Datatypes and Variables Challenge.exe
+C:\Users\Dylan Danowski\source\repos\Datatypes and Variables Challenge\Datatypes and Variables Challenge\obj\Debug\Datatypes and Variables Challenge.pdb
